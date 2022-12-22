@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\bin\Debug\dispalyarrayelements.exe.config
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\bin\Debug\dispalyarrayelements.exe
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\bin\Debug\dispalyarrayelements.pdb
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\obj\Debug\dispalyarrayelements.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\obj\Debug\dispalyarrayelements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\obj\Debug\dispalyarrayelements.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\obj\Debug\dispalyarrayelements.exe
+C:\Users\Dell\Desktop\.net\lab\dispalyarrayelements\dispalyarrayelements\obj\Debug\dispalyarrayelements.pdb

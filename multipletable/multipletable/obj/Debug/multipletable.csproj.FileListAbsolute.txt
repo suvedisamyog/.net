@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\bin\Debug\multipletable.exe.config
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\bin\Debug\multipletable.exe
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\bin\Debug\multipletable.pdb
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\obj\Debug\multipletable.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\obj\Debug\multipletable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\obj\Debug\multipletable.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\obj\Debug\multipletable.exe
+C:\Users\Dell\Desktop\.net\lab\multipletable\multipletable\obj\Debug\multipletable.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\obj\Debug\constructors.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\obj\Debug\constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\obj\Debug\constructors.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\bin\Debug\constructors.exe.config
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\bin\Debug\constructors.exe
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\bin\Debug\constructors.pdb
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\obj\Debug\constructors.exe
+C:\Users\Dell\Desktop\.net\lab\constructors\constructors\obj\Debug\constructors.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\linq\linq\bin\Debug\linq.exe.config
+C:\Users\Dell\Desktop\.net\lab\linq\linq\bin\Debug\linq.exe
+C:\Users\Dell\Desktop\.net\lab\linq\linq\bin\Debug\linq.pdb
+C:\Users\Dell\Desktop\.net\lab\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\linq\linq\obj\Debug\linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\linq\linq\obj\Debug\linq.exe
+C:\Users\Dell\Desktop\.net\lab\linq\linq\obj\Debug\linq.pdb

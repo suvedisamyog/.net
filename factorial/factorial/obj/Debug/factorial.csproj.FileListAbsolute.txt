@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\obj\Debug\factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\bin\Debug\factorial.exe.config
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\Dell\Desktop\.net\lab\factorial\factorial\obj\Debug\factorial.pdb

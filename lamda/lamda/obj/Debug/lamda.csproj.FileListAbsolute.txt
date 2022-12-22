@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\bin\Debug\lamda.exe.config
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\bin\Debug\lamda.exe
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\bin\Debug\lamda.pdb
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\obj\Debug\lamda.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\obj\Debug\lamda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\obj\Debug\lamda.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\obj\Debug\lamda.exe
+C:\Users\Dell\Desktop\.net\lab\lamda\lamda\obj\Debug\lamda.pdb

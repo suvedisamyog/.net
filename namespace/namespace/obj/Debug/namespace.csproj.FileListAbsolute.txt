@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\bin\Debug\@namespace.exe.config
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\bin\Debug\@namespace.exe
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\bin\Debug\@namespace.pdb
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\obj\Debug\namespace.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\obj\Debug\namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\obj\Debug\namespace.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\obj\Debug\@namespace.exe
+C:\Users\Dell\Desktop\.net\lab\namespace\namespace\obj\Debug\@namespace.pdb

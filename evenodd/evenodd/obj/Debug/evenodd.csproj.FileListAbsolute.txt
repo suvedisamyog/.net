@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\bin\Debug\evenodd.exe.config
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\bin\Debug\evenodd.exe
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\bin\Debug\evenodd.pdb
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\obj\Debug\evenodd.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\obj\Debug\evenodd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\obj\Debug\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\obj\Debug\evenodd.exe
+C:\Users\Dell\Desktop\.net\lab\evenodd\evenodd\obj\Debug\evenodd.pdb
